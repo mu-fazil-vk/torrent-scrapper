@@ -1,7 +1,7 @@
 '''
 ==================================FAZIL_VK================================================
 
-Written and Copyrighted by Fazil vk, https://github.com/Fazil-vk
+Written and Copyrighted by Fazil vk, https://github.com/mu-fazil-vk
 Do not remove this caption
 
 ==========================================================================================
